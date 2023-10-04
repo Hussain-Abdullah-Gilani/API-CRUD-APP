@@ -1,7 +1,7 @@
 # Android CRUD App README
 
 
-![Android](https://img.shields.io/npm/v/npm.svg?logo=kotlin)
+![Android](https://unpkg.com/simple-icons@v9/icons/Kotlin.svg)
 ![Retrofit2](https://img.shields.io/badge/Retrofit2-2.9+-blue)
 ![OKHTTP](https://img.shields.io/badge/OKHTTP-4.9+-Turquoise)
 ![OKHTTP](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
