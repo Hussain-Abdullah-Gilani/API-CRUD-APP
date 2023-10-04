@@ -1,8 +1,10 @@
 # Android CRUD App README
 
 
-![Android](https://img.shields.io/badge/Android-kotlin-purple)
+![Android](https://img.shields.io/badge/Android-Kotlin-purple)
 ![Retrofit2](https://img.shields.io/badge/Retrofit2-2.9+-blue)
+![OKHTTP](https://img.shields.io/badge/OKHTTP-4.9+-Turquoise)
+
 
 ## Introduction
 
