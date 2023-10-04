@@ -1,7 +1,7 @@
 # Android CRUD App README
 
 
-![Android](https://cdn.simpleicons.org/kotlin/purple)
+![Android](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
 ![Retrofit2](https://img.shields.io/badge/Retrofit2-2.9+-blue)
 ![OKHTTP](https://img.shields.io/badge/OKHTTP-4.9+-Turquoise)
 ![OKHTTP](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
