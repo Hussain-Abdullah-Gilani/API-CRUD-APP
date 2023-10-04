@@ -3,7 +3,8 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat)
-![Retrofit2](https://img.shields.io/badge/Retrofit2-blue-2.9+-orange)
+![Retrofit2](https://img.shields.io/badge/Retrofit2-2.9+-white)
+![OKHTTP](https://img.shields.io/badge/OKHTTP-4.9+-skyblue)
 
 ## Introduction
 
