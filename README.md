@@ -2,7 +2,7 @@
 
 
 ![Android](https://img.shields.io/badge/Android-kotlin-purple)
-![YOLO](https://img.shields.io/badge/YOLO-SWAG-purple)
+![Retrofit2](https://img.shields.io/badge/Retrofit2-2.9+-blue)
 
 ## Introduction
 
