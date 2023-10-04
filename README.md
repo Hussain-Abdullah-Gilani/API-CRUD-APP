@@ -1,7 +1,7 @@
 # Android CRUD App README
 
 
-![Android](https://img.shields.io/badge/kotlin-purple)
+![Android](https://img.shields.io/badge/Android%20kotlin-purple)
 
 
 ## Introduction
