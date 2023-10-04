@@ -1,5 +1,9 @@
 # Android CRUD App README
 
+
+![Android](https://img.shields.io/badge/Android-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple)
+
 ## Introduction
 
 Welcome to the Android CRUD (Create, Read, Update, Delete) App! This Android application provides a simple interface for managing a collection of items, allowing users to perform CRUD operations on them. Powered by [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
