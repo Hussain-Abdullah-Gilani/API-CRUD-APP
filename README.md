@@ -24,7 +24,6 @@ Welcome to the Android CRUD (Create, Read, Update, Delete) App! This Android app
 - View a list of all items in a user-friendly interface.
 - Update the title and description of existing items.
 - Delete items from the list.
-- Data persistence using a local database (SQLite).
 - Responsive user interface with smooth animations.
 - Error handling for a seamless user experience.
 
